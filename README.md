@@ -7,4 +7,4 @@ Maycon Lopes
 Técnico em Desenvolvimento de Sistemas
 
 ## Objetivo profissional
-Quero me tornar desenvolvedor full stack.
+Quero atuar com desenvolvimento web e mobile, evoluindo para full stack.
